@@ -40,6 +40,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <h3 className={styles.logo} >eyesee</h3>
       <main className={styles.main}>
         <h1>Sad Beshy AI</h1>
         <div>Enter a topic and it will generate a super cringy motivational quote for my Beshy</div>

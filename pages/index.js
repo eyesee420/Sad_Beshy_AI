@@ -15,6 +15,11 @@ export default function Home() {
     const formData = new FormData(e.target);
     const prompt = formData.get('prompt')?.toString().trim();
 
+
+    //added fork meow
+    console.log(formData)
+
+
     if (prompt) {
       try {
         setQuote('');

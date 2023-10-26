@@ -47,7 +47,7 @@ export default function Home() {
       </Head>
       <h3 className={styles.logo} >eyesee</h3>
       <main className={styles.main}>
-        <h1>Sad Beshy AI</h1>
+        <h1>Sad Beshy AI - icy</h1>
         <div>Enter a topic and it will generate a super cringy motivational quote for my Beshy</div>
         <div className={styles.mainImageContainer}>
           <Image
